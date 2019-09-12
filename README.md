@@ -75,5 +75,4 @@
 
 非常感谢所以提出 BUG 以及提交 PR 的人。我需要点时间来回顾这一切，现在没法保证。
 
-Please feel free to fork this repo. If many of you are interested in continuing the project, let me know and I'll link the "main fork" from here.
 请随意 fork. 如果有不少人有兴趣继续这个项目，尽管告诉我，我会从这里链接一个 “主分支” 过去。
